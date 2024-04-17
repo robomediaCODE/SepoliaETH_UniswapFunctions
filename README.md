@@ -10,6 +10,10 @@
 
 - Update the variables in each script to fit your current working environment. The Factory, Router, and WETH addresses were all working contracts at the time of writing this, so you can leave them without changing. If you do have issues with these contracts, either deploy your own, or find working contract on Sepolia that are already working. 
 
+- You will also need to update the lpTokenABI.json file with the correct ABI data from your LP pair after it is created using the addLiquidity script. I have had a good experience using https://abidata.net/ to pull the ABI data into a clean JSON format. Example link below:
+
+https://abidata.net/0x7b79995e5f793A07Bc00c21412e50Ecae098E7f9?network=sepolia
+
 ## 3. Run Each Script:
 
 - Run in script in your terminal as needed. Commands for each are below:
