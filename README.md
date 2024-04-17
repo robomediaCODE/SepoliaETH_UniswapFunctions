@@ -14,10 +14,10 @@
 
 - Run in script in your terminal as needed. Commands for each are below:
 
-> ``npx hardhat run scripts/addLiquidity.js --network ETHSepolia``
-> ``npx hardhat run scripts/removeLiquidity.js --network ETHSepolia``
-> ``npx hardhat run scripts/sellTokens.js --network ETHSepolia``
-> ``npx hardhat run scripts/buyTokens.js --network ETHSepolia``
+> ``npx hardhat run scripts/addLiquidity.js --network ETHSepolia`` 
+> ``npx hardhat run scripts/removeLiquidity.js --network ETHSepolia`` 
+> ``npx hardhat run scripts/sellTokens.js --network ETHSepolia`` 
+> ``npx hardhat run scripts/buyTokens.js --network ETHSepolia`` 
 
 ## Notes:
 
