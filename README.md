@@ -12,7 +12,7 @@
 
 - You will also need to update the lpTokenABI.json file with the correct ABI data from your LP pair after it is created using the addLiquidity script. I have had a good experience using https://abidata.net/ to pull the ABI data into a clean JSON format. Example link below:
 
-https://abidata.net/0x7b79995e5f793A07Bc00c21412e50Ecae098E7f9?network=sepolia
+``https://abidata.net/0x7b79995e5f793A07Bc00c21412e50Ecae098E7f9?network=sepolia``
 
 ## 3. Run Each Script:
 
